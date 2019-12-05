@@ -87,5 +87,5 @@
 [![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/OpenFile.jpg)
 
 # 5\. Class Diagram <a name = "5"></a>
-[![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ClassDiagram.jpg)https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpghttps://github.com/catherine-yarosh-650501/BookerFiles/blob/master/Docs/diagrams/ComponentDiagram/ComponentDiagram.jpg)](https://github.com/catherine-yarosh-650501/BookerFiles/blob/master/Docs/diagrams/ComponentDiagram/ComponentDiagram.jpg)
+[![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpg)
 
