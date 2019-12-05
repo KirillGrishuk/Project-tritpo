@@ -79,18 +79,18 @@
 ## 3.2\. Удаление файла<a name = "3.2"></a>
 ![del](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/%D0%A3%D0%B4%D0%B0%D0%BB%D0%B8%D1%82%D1%8C%20%D1%84%D0%B0%D0%B9%D0%BB%20%D0%B8%D0%B7%20%D0%B1%D0%B4.png)
 ## 3.3\. Открытие файла <a name = "3.3"></a>
-[![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D1%84%D0%B0%D0%B9%D0%BB.png)
+![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D1%84%D0%B0%D0%B9%D0%BB.png)
 # 4\. Диаграмма состояний <a name = "4"></a>
 
-[![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/AddFile.jpg)
-[![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/DeleteFile.jpg)
-[![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/OpenFile.jpg)
+![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/AddFile.jpg)
+![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/DeleteFile.jpg)
+![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/OpenFile.jpg)
 
 # 5\. Class Diagram <a name = "5"></a>
-[![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ClassDiagram.jpg)
+![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ClassDiagram.jpg)
 
 # 6\. Component and Deployment Diagram <a name = "6"></a>
 
-[![Component_deployment](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpg)
+![Component_deployment](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpg)
 
 
