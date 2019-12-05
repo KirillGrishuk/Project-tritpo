@@ -87,5 +87,10 @@
 [![State](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/OpenFile.jpg)
 
 # 5\. Class Diagram <a name = "5"></a>
-[![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpg)
+[![classDiagram](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ClassDiagram.jpg)
+
+# 6\. Component and Deployment Diagram <a name = "6"></a>
+
+[![Component_deployment](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ComponentDiagram.jpg)
+
 
