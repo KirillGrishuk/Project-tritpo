@@ -11,28 +11,19 @@
 
 # 1\. Диаграмма вариантов использования <a name = "1"></a>
   
-## 1.1\. Описание актеров <a name = "1.1"></a>
-
-|Актер| Описание |
-|--|--|
-| Пользователь | Человек, который использует приложение |
 
 
-## 1.2\.  Диаграмма прецедентов <a name = "1.2"></a>
-![UseCase](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/UseCase.png)
+![UseCase](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/FunctionalRequirements.png)
 
 
 
 
 *
 # 2\. Диаграмма активностей <a name = "2"></a>
-## 2.1\. Диаграмма добавления файла <a name = "2.1"></a>
-![addfile](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/add_File.jpg)
 
-## 2.2\. Диаграмма удаления файла <a name = "2.2"></a>
-![deletefile](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/delete_File.jpg)
-## 2.3\. Диаграмма открытия файла <a name = "2.3"></a>
-![openfile](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/open_file.jpg)
+![addfile](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/ActivityDiagram.PNG)
+
+
 # 3\. Диаграммы последовательности <a name = "3"></a>
 
 ![add](https://github.com/KirillGrishuk/Project-tritpo/blob/master/diagrams/SequenceDiagram2.PNG)
